@@ -1,0 +1,44 @@
+.hero-top-section{
+    position: relative;
+}
+.hero-image{
+    width: 400px;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+.hero-top-title{
+    width: 100%;
+    max-width: 700px;
+    color: white;
+    font-size: 4rem;
+    font-family: sans-serif;
+    margin-bottom: 20px;
+}
+
+.hero-top-bottom{
+    display: flex;
+    gap: 20px;
+}
+
+.hero-top-btn1{
+    padding: 15px 30px;
+    background-color: rgb(234, 4, 226);
+    color: white;
+    font-size: 1rem;
+    font-family: sans-serif;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.hero-top-btn2{
+    padding: 15px 30px;
+    background-color: transparent;
+    color: white;
+    font-size: 1rem;
+    font-family: sans-serif;
+    border: 2px solid white;
+    border-radius: 5px;
+    cursor: pointer;
+}
