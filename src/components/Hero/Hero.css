@@ -1,0 +1,27 @@
+.hero {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 100%;
+  height: 100vh;
+  background-color: red;
+  padding-top: 100px;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-bottom: 50px;
+  background: linear-gradient(140deg, #ff005d 0%, #0ff 100%);
+}
+
+.hero-top-desc {
+  width: 100%;
+  max-width: 500px;
+  color: white;
+  font-size: 1rem;
+  font-family: sans-serif;
+  margin-bottom: 30px;
+}
+
+.hero-bottom{
+    display: flex;
+    gap: 20px;
+}
