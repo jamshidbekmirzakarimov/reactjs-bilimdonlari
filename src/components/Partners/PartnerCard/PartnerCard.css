@@ -1,0 +1,14 @@
+.pepsi {
+    background-color: #949697;
+    width: 400px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-image: url(../../../assets/dropbox.png); */
+
+}
+.partner-logo {
+    width: 30px;
+    height: 50px;
+}
