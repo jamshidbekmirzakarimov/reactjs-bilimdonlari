@@ -1,0 +1,49 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Latest{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+
+}
+.LatestCard{
+    background-color: rgba(243, 242, 242, 0.58);
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 0 5px 30px 0 rgba(0,0,0,0.2);
+}
+
+.lates-img{
+    width: 550px;
+    border-radius: 15px;
+
+}
+
+.lates-card-title{
+    padding: 15px;
+}
+.lates-card-text{
+    padding: 5px;
+
+}
+.lates-card-text2{
+    padding: 10px;
+    font-weight: inherit;
+}
+
+.button-last{
+    border: 1px blue solid;
+
+  padding: 10px;
+    border-radius: 10px;
+    background-color: aliceblue;
+}
+.button-last{
+     background-color: #50a3f1;
+}
